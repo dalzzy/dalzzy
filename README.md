@@ -27,7 +27,7 @@
 <br/>
 <img src="https://img.shields.io/badge/Next.JS-000000?style=for-the-badge&logo=Next.JS&logoColor=white">
 <img src="https://img.shields.io/badge/TailwindCss-06B6D4?style=for-the-badge&logo=TailwindCss&logoColor=white">
-<img src="https://img.shields.io/badge/StoryBook-ff4785?style=for-the-badge&logo=StoryBook&logoColor=white">
+
 
 <br/>
   
