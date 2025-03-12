@@ -13,7 +13,7 @@
 
  
  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" 
-           alt="Technologist Light Skin Tone" width="55" height="55"/>&nbsp;I'm studying</h2>
+           alt="Technologist Light Skin Tone" width="45" height="45"/>&nbsp;I'm studying</h2>
 
 <br/>
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
@@ -31,7 +31,7 @@
 
 <br/>
   
-  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="45" height="45" align=center/>&nbsp;Github Stats</h2>
+  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="35" height="35" align=center/>&nbsp;Github Stats</h2>
 
 <div>
 
