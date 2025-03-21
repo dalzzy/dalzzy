@@ -4,7 +4,7 @@
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=dalzzy&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/dalzzy"
-  width="600"
+  width="800"
   height="300"
 />
 </a>
@@ -36,6 +36,7 @@
 <div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dalzzy&show_icons=true&theme=vue)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dalzzy&theme=vue)](https://github.com/dalzzy/github-readme-activity-graph)
 </div>
 
 
