@@ -1,7 +1,7 @@
 
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=DaHyeon%27s%20Github&animation=twinkling&customColorList=0,2,3,15,17,21,24,25&fontSize=80&stroke=eee&strokeWidth=2)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=DaHyeon%27s%20Github&animation=twinkling&customColorList=0,2,3,15,21&fontSize=80)
 
 <br/>
 
