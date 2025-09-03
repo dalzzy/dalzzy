@@ -38,7 +38,7 @@
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=dalzzy&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/dalzzy"
-  width="365"
+  width="370"
   height="100%"
 />
 </a>
