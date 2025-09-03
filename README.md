@@ -1,13 +1,7 @@
 
 <div align=center>
-  
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=dalzzy&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/dalzzy"
-  width="800"
-  height="300"
-/>
-</a>
+
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=DaHyeon%27s%20Github&animation=twinkling&fontSize=80)
 
 <br/>
 
@@ -41,6 +35,14 @@
 <div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dalzzy&show_icons=true&theme=vue)
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=dalzzy&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/dalzzy"
+  width="400"
+  height="100%"
+/>
+</a>
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dalzzy&theme=vue)](https://github.com/dalzzy/github-readme-activity-graph)
 </div>
 
