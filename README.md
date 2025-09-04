@@ -1,7 +1,9 @@
 
 <div align=center>
-
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=DaHyeon%27s%20Github&animation=twinkling&customColorList=0,2,3,15,21&fontSize=80)
+ 
+ ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15&height=100&fontSize=60)
+ 
+![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&height=300&section=header&text=DaHyeon%27s%20Github&animation=twinkling&customColorList=15&fontSize=80&fontColor=f3f3f3)
 
 <br/>
 
