@@ -3,7 +3,7 @@
  
  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15&height=100&fontSize=60)
  
-![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&height=300&section=header&text=DaHyeon%27s%20Github&animation=twinkling&customColorList=15&fontSize=80&fontColor=f3f3f3)
+![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&height=300&section=header&text=DaHyeon%27s%20Github&animation=fadeIn&customColorList=15&fontSize=80&fontColor=f2f2f2)
 
 <br/>
 
